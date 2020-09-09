@@ -1,6 +1,7 @@
 # chat_app_tutorial
 
-A new Flutter application.
+A new Flutter application. A trial chat app for learning backend with firebase.
+Certain features need to be added and still under development.
 
 ## Getting Started
 
